@@ -1,0 +1,16 @@
+public class DoWhilejavaJava {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        int idade = 1;
+        
+        do{
+            System.out.println(idade);
+            idade++;
+            
+        }while(idade <=18);
+    }
+    
+}
