@@ -1,0 +1,17 @@
+public class WhileJava {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        
+int idade = 1;
+
+while ( idade < 18 ){
+  idade=idade + 1;
+  System.out.print(  idade);
+}
+
+    }
+    
+}
